@@ -1,7 +1,7 @@
 # 가위 바위 보 시뮬레이터
 Rock Scissors paper Simulator (PyOpenGL)
 
-친구와 비대면 가위바위보 가능ㅋㅋ
+비대면 가위바위보 가능
 
 <img src = "overview.png">
 
